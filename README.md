@@ -1,4 +1,4 @@
-# Angell Data Intelligence 🛡️
+# ANGELL DATA INTELLIGENCE 🛡️
 
 Building automated external attack surface discovery and executive risk profiling platforms for modern IT governance teams.
 
